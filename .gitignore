@@ -1,0 +1,9 @@
+# SolidWorks temporary and backup files
+~$*
+*.SLDPRT.bak
+*.tmp
+# Arduino build output
+build/
+# OS files
+Thumbs.db
+.DS_Store
