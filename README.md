@@ -1,6 +1,6 @@
 # Automatic Water Tank Monitoring and Pump Control
 
-Group 4 course project. An Arduino Uno measures the water level in a tank with an ultrasonic sensor,
+Course project by Prince Mutezva. An Arduino Uno measures the water level in a tank with an ultrasonic sensor,
 shows it on an LCD and switches a 12 V pump automatically.
 
 ![Assembly](docs/images/assembly-isometric.png)
@@ -57,6 +57,6 @@ hose adapter, electronics enclosure, cover and pump bracket. The enclosure stand
 
 The full technical report is in [`docs/Technical_Report.docx`](docs/Technical_Report.docx).
 
-## Authors
+## Author
 
-Group 4.
+Prince Mutezva.
